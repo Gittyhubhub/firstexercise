@@ -5,7 +5,7 @@
 
 </head>
 <body> 
-<title>Dette er min forside 
-</title>
+<title>Dette er min forside</title>
+<h1> Dette er en overskrift</h1>
 </body>
 </html>
